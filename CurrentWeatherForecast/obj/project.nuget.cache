@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nwT24diBCUAQQagrPMwrYpVCcZbcLxwxr4F7kCqdGb82mHBItH/MO1nDV6tIhzRKHBL/eeLmdOaPAo9hZDkbhQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ripli\\Desktop\\repos\\CurrentWeatherForecast\\CurrentWeatherForecast\\CurrentWeatherForecast.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ripli\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,46 @@
+// 20210713133623
+// https://api.openweathermap.org/data/2.5/weather?q=Boise&appid=8b5de2303eb9da834cb65d5ed38bd581
+
+{
+  "coord": {
+    "lon": -116.2035,
+    "lat": 43.6135
+  },
+  "weather": [
+    {
+      "id": 721,
+      "main": "Haze",
+      "description": "haze",
+      "icon": "50d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 305.89,
+    "feels_like": 303.98,
+    "temp_min": 304.6,
+    "temp_max": 308.18,
+    "pressure": 1014,
+    "humidity": 22
+  },
+  "visibility": 9656,
+  "wind": {
+    "speed": 4.12,
+    "deg": 310
+  },
+  "clouds": {
+    "all": 1
+  },
+  "dt": 1626204423,
+  "sys": {
+    "type": 1,
+    "id": 3479,
+    "country": "US",
+    "sunrise": 1626178540,
+    "sunset": 1626233107
+  },
+  "timezone": -21600,
+  "id": 5586437,
+  "name": "Boise",
+  "cod": 200
+}
